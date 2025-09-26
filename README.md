@@ -18,7 +18,8 @@ It allows you to add teams and players, schedule fixtures, record match results,
 1. Save the file as `SportsLeague.java`.
 2. Open terminal/command prompt and compile:
    ```bash
-   javac SportsLeague.java
+   
+    javac SportsLeague.java
 
 
 Run the program:
